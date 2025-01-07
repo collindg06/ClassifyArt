@@ -11,6 +11,6 @@
 ## Instructions to run
 
 - Open ArtClassificationTrain.m and run the file in the editor tab.
-- Open ArtClassification.m and run the file.
+- Open ArtClassification.m and run the file (if you want to skip training, run the "load('net.mat');" that is in the code).
 - Enter a file name that is a jpg or png file in the command window (you can enter “aiimage.jpg” if you do not have one).
 - The program will then give you the classification.

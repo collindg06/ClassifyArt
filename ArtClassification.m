@@ -1,5 +1,5 @@
 % This code takes an input image and predicts the classification
-load('net.mat'); % Run this line to use the pretrained or latest trained model
+load('net.mat'); % Run this line if you want to use the pretrained model
 
 % gets input and preprocesses image
 disp("Jpg and png files are accepted. Note that the image should be in the directory your MatLab is in.")
